@@ -1,0 +1,22 @@
+/* Estilos adicionales para vista previa de imagen */
+#imagenPreview {
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+/* Estilos para el mapa de ubicación */
+#map {
+    height: 300px;
+    width: 100%;
+    margin-top: 10px;
+}
+.imagen-preview {
+    width: 220px;
+    height: 180px;
+    object-fit: cover;
+    margin-top: 10px;
+    margin-left: 30px;
+}
